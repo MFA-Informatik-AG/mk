@@ -49,8 +49,8 @@ Die Methodenkarten beschreiben diverse Techniken und Methoden, die in der Mediat
 |15|	Kreativitätstechnik Produzieren II
 |16|	Kreativitätstechnik Auswählen
 |17|	Kreativitätstechnik Bewerten
+|18| 	Loopen
 |19|	Metaphernbrücke
-|18| Loopen
 |20|	Normalisieren / Fokussieren
 |21|	Pacing und Leading
 |22|	Paradoxe Intervention
